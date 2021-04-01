@@ -1,0 +1,598 @@
+header{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+        background-color: purple;
+   padding-bottom: 40px;
+}
+.container{
+  width: 1140px;
+    margin: 0px auto;
+ 
+}
+.bg{
+ width: 30%;
+    float: left;
+    margin: 0px auto;
+    display: block;
+}
+.cuda{
+    
+}
+.menu{
+    width: 70%;
+    float: left;
+    
+}
+.menu ul{
+    
+}
+.menu ul li{
+        display: inline-block;
+}
+.menu ul a{
+    margin: 0px 28px;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.wri{
+       margin: 0px auto;
+    width: 40%;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.wri h3{
+    color: white;
+    padding-top: 100px;
+    font-size: 24px;
+}
+.wri-b{
+    margin: 0px auto;
+    display: block;
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 7px 36px;
+    font-size: 12px;
+    cursor: pointer;
+}
+/*SERVICE*/
+section{
+   background-color: aquamarine;
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.container{
+    
+}
+.service{
+    
+}
+.service h2{
+    font-size: 25px;
+    text-align: center;
+    margin: 0px auto;
+}
+.service span{
+   border-bottom: 1px solid #161616;
+    display: block;
+    width: 7%;
+    margin: 5px auto;
+}
+.service p{
+            text-align: center;
+    margin: 0px 296px;   
+    margin-bottom: 35px;
+    
+}
+
+.flag{
+      width: 25%;
+    float: left;
+    text-align: center;
+}
+.flagimg{
+        width: 39%;
+}
+.flag h3{
+   margin: 1px auto;
+    display: block;
+    color: white;
+}
+.flag h5{
+ margin: 5px auto;
+    display: block;
+    color: white;
+    padding: 0px 50px;
+    font-size: 14px;
+}
+
+.pen{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.penimg{
+    width: 28%;
+    
+}
+.pen h3{
+    margin: 0px auto;
+    color: white;
+}
+.pen h5{
+     margin: 5px auto;
+    display: block;
+    color: white;
+    padding: 0px 50px;
+    font-size: 14px;
+}
+
+
+.screw{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.screwimg{
+    width: 50%;
+}
+.screw h3{
+    margin: 1px auto;
+    display: block;
+    color: white;
+    
+}
+.screw h5{
+  margin: 5px auto;
+    display: block;
+    color: white;
+    padding: 0px 50px;
+    font-size: 14px;
+}
+.rocket{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.rocketimg{
+    width: 28%;
+}
+.rocket h3{
+     margin: 1px auto;
+    display: block;
+    color: white;
+}
+.rocket h5{
+   margin: 5px auto;
+    display: block;
+    color: white;
+    padding: 0px 50px;
+    font-size: 14px;
+}
+/*about team*/
+.abouttm{
+    width: 100%;
+    float: left;
+        background-color: gray;
+        padding: 10px 0px;
+}
+.container{
+    
+}
+.team{
+    text-align: center;
+    padding: 10px 0px;
+}
+.team h2{
+            font-size: 25px;
+    text-align: center;
+    margin: 0px auto
+}
+.team span{
+    border-bottom: 1px solid #161616;
+    display: block;
+    width: 7%;
+    margin: 5px auto;
+}
+.team p{
+        text-align: center;
+    margin: 0px 296px;
+    margin-bottom: 35px;
+}
+
+
+.humanteam{
+    width: 25%;
+    float: left;
+    
+}
+.humanteampic{
+       width: 50%;
+   margin: 0px auto;
+    display: block;
+    
+}
+.humanteam h3{
+        text-align: center;
+margin: 0px auto;
+}
+.humanteam h4{
+         margin: 0px auto;
+   
+    font-size: 13px;
+    color: blueviolet;
+}
+.humanteam p{
+      
+    margin: 0px auto;
+    padding: 8px;
+}
+.sign{
+    
+}
+.sign ul{
+        list-style: none;
+}
+.sign ul li{
+        display: inline-block;
+    margin: 0px 14px;
+  
+    padding: 3px 6px;
+    background-color: darkgray;
+    border-radius: 43%
+}
+.sign ul li a{
+    color: white;
+}
+
+.humanteam{
+   width: 25%;
+    float: left;
+}
+.humanteampic{
+       width: 50%;
+   
+}
+.humanteam h3{
+        text-align: center;
+  
+}
+.humanteam h4{
+          text-align: center;
+  
+    font-size: 13px;
+    color: blueviolet;
+}
+.humanteam p{
+        text-align: center;
+  
+    padding: 8px;
+}
+
+.menteam{
+    width: 25%;
+    float: left;
+}
+.menteampic{
+    width: 50%;
+    margin: 0px auto;
+    display: block;
+}
+.menteam h3{
+      text-align: center;
+    margin: 0px auto;
+}
+.menteam h4{
+      text-align: center;
+    margin: 0px auto;
+    font-size: 13px;
+    color: blueviolet;
+}
+.menteam p{
+         text-align: center;
+    margin: 0px auto;
+    padding: 8px;
+}
+
+.ladyteam{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.ladyteampic{
+        width: 50%;
+    margin: 0px auto;
+    display: block;
+}
+.ladyteam h3{
+    margin: 0px auto;
+}
+.ladyteam h4{
+        margin: 0px auto;
+    font-size: 13px;
+    color: blueviolet;
+    margin-bottom: -8px
+}
+.ladyteam p{
+    
+}
+
+/*Percent*/
+.container{
+    
+}
+.percent{
+    width: 100%;
+    float: left;
+    background-color: white;
+    text-align: center;
+}
+.wgpercent{
+    width: 100%;
+    float: left;
+}
+.wgpercent h2{
+    margin: 0px;
+    font-size: 25px;
+}
+
+.wgpercent span{
+        border: 1px solid #161616;
+    width: 7%;
+    margin: 5px auto;
+    display: block;
+}
+.wgpercent p{
+        text-align: center;
+    margin: 0px 296px;
+        margin-bottom: 20px;
+}
+
+.percentpic{
+    width: 25%;
+    float: left;
+}
+.pink{
+    
+}
+.percentpic h4{
+    
+}
+
+/*laptop*/
+.laptop{
+    width: 100%;
+    float: left;
+    background-color: bisque;
+}
+.ablaptop{
+    text-align: center;
+}
+.ablaptop h2{
+    font-size: 25px;
+    margin: 0px auto;
+    
+}
+.ablaptop span{
+    border-bottom: 1px solid #161616;
+        width: 7%;
+    margin: 5px auto;
+    display: block;
+}
+.ablaptop p{
+    margin: 0px 296px;
+}
+.laptopborder{
+    width: 100%;
+}
+
+.laptopborder ul{
+    list-style: none;
+        margin: 10px 0px;
+}
+.laptopborder ul li{
+        display: inline-block;
+    margin: 1px 10px;
+    background-color: darkgrey;
+    padding: 4px 5px;
+    color: white;
+}
+
+
+
+.laptopii{
+    width: 50%;
+    float: left;
+}
+
+.laptopii h5{
+    font-size: 17px;
+    text-align: center;
+}
+
+.lpe{
+    width: 50%;
+    float: left;
+}
+.lpe h5{
+    font-size: 17px;
+    text-align: center;
+}
+.laptopbutton{
+    margin: 0px auto;
+    display: block;
+    padding: 6px 68px;
+    color: white;
+    background-color: mediumturquoise;
+    border: none;
+    cursor: pointer;
+}
+
+/*what people say about us*/
+.container{
+    
+}
+.say{
+    width: 100%;
+    float: left;
+    background-color: hotpink;
+    padding: 25px 0px;
+        text-align: justify;
+}
+.aboutsay{
+    text-align: center;
+}
+.aboutsay h2{
+    font-size: 25px;
+    margin: 0px auto;
+}
+.aboutsay span{
+    border-bottom: 1px solid #161616;
+    width: 7%;
+    display: block;
+    margin: 5px auto;
+}
+
+
+.aboutsay p{
+    margin: 0px auto;
+    margin-bottom: 15px;
+}
+.oooldman{
+    width: 50%;
+    float: left;
+}
+.ooldmanpic{
+    width: 25%;
+}
+.oooldman h6{
+  margin: -78px 165px 0px;
+    color: white;
+    font-size: 11px;
+    font-style: italic;
+}
+.oooldman h4{
+   margin: 10px 165px 0px;
+    color: white;
+}
+.oooldman h5{
+        margin: 3px 167px 0px;
+    font-size: 9px;
+    color: yellow;
+}
+.oooldmantwo{
+    width: 50%;
+    float: left;
+        
+}
+.ooldmanpic{
+    width: 25%;
+}
+.oooldmantwo h6{
+   margin: -78px 165px 0px;
+    color: white;
+    font-size: 11px;
+    font-style: italic;
+}
+.oooldmantwo h4{
+    margin: 10px 165px 0px;
+    color: white;
+}
+.oooldmantwo h5{
+     margin: 3px 167px 0px;
+    font-size: 9px;
+    color: yellow;
+}
+/*GET IN TOUCH*/
+.form{
+    width: 100%;
+    float: left;
+    background-color: darkblue;
+    padding: 25px 0px;
+}
+.getin{
+    text-align: center;
+}
+.getin h2{
+    color: white;
+    margin: 0px auto;
+}
+.getin span{
+    border-bottom: 1px solid #ffffff;
+    display: block;
+    margin: 3px auto;
+    width: 7%
+}
+
+.getin h5{
+  margin: 5px 336px;
+    color: white;
+        margin-bottom: 10px;
+}
+
+.aboutform{
+    text-align: center;
+}
+
+.formmod{
+    
+}
+.textform{
+    padding-right: 45px;
+    background-color: midnightblue;
+    border: none;
+}
+
+.emailform{
+    padding-right: 45px;
+    background-color: midnightblue;
+    border: none;
+}
+.textareaform{
+       background-color: midnightblue;
+    margin: 5px;
+    padding-right: 272px;
+    padding-bottom: 30px;
+}
+.bs{
+   margin: 0px auto;
+    display: block;
+    margin-top: 10px;
+    font-size: 12px;
+    padding: 5px 25px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    cursor: pointer 
+}
+/*social media*/
+
+.socialmedia{
+    width: 100%;
+    float: left;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.container{
+    
+}
+.mediasocial{
+    
+}
+.mediasocial ul{
+    list-style: none;
+}
+.mediasocial ul li{
+    display: inline-block;
+    padding: 20px 50px;
+    color: white;
+}
